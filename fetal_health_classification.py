@@ -113,7 +113,7 @@ plot_feature_importance(
 
 #Obtain an accuracy of 0.94
 
-#### LIGHT BOOST ####
+#### GRADIENT BOOSTING ####
 gbm_param_grid = {
     'n_estimators': [50, 100, 150, 200],
     'min_samples_leaf': [5, 10, 15],
