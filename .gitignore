@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Files
+fetalHealth_DecisionTree.R
+fetalHealth_MultiLogRegr.R
+
+
+# IDE configurations
+.ipynb_checkpoints/
+.vscode/
+.idea
+.DS_Store
+.RData
+.RHistory
+.Rhistory
+.RData
